@@ -1,0 +1,21 @@
+
+Entidades Nomeadas
+
+Recebe um documento .txt
+Recebe um documento para tokenização
+Cria um arquivo de saída tokenizado
+
+exemplo :
+Entrada 1 - Arquivo de texto :
+João foi na casa de Maria comprar doce para Ana.
+
+Entrada 2 - Arquivo de tokenização :
+
+10 _Nome_
+João
+Maria
+Ana
+
+Saída Tokenizada :
+
+_Nome_ foi na casa de _Nome_ comprar doce para _Nome_.
